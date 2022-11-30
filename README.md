@@ -63,6 +63,3 @@ Run the shell script for the model you selected and updated the **project.yml**
 
 The model will be automatically registered to AzureML. A notebook template **spacy_model_prediction.ipynb** can be found under **Spacy_classification_template** folder. Update this notebook for users.
 
-## Any Doubts?
-
-Contact me: [hdu@riskalive.com](mailto:hdu@riskalive.com)
