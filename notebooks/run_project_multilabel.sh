@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 cd ..
 cd "textcat_multilabel"
 n=1
